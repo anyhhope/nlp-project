@@ -1,5 +1,6 @@
 # nlp-project
 
+Статья - https://arxiv.org/abs/2404.08634
 
 <img src="images/loss_plot.png" alt="loss plot" width="700">
 
