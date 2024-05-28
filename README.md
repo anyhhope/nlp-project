@@ -4,7 +4,7 @@
 
 <img src="images/loss_plot.png" alt="loss plot" width="700">
 
-Веса модели - https://drive.google.com/file/d/1whsdpFXYe55yREY33O5aCf7yCD5oHP7x/view?usp=sharing
+Веса модели - https://drive.google.com/file/d/1blPYoTcpfAaIRKp9JZk9acW7pxI5ZTSG/view?usp=sharing
 
 ---
 
