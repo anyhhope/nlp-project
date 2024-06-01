@@ -13,7 +13,7 @@
 
 <img src="images/loss_plot.png" alt="loss plot" width="700">
 
-Веса модели - https://drive.google.com/file/d/1blPYoTcpfAaIRKp9JZk9acW7pxI5ZTSG/view?usp=sharing
+Веса моделей - https://drive.google.com/drive/folders/1qtiFPoFX9eqFlvM1aldS95T8J6scCZ8j?usp=sharing
 
 Папка с кодом - src: \
 model - классы моделей\
