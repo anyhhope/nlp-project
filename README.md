@@ -15,6 +15,9 @@
 
 Веса моделей - https://drive.google.com/drive/folders/1qtiFPoFX9eqFlvM1aldS95T8J6scCZ8j?usp=sharing
 
+---
+
+### Src
 Папка с кодом - src: \
 model - классы моделей\
 init_model - создание экземпляров моделей, передача весов из одной в другую\
@@ -23,11 +26,10 @@ test_model - содержит энкодер, декодер и функцию, 
 train - обучение модели\
 Запускать нужно файл train
 
----
 
 ### Notebooks
 
-* inheritune-train - основной ноутбук, с определением модели и обучением
+Ноутбуки с обучением и оценкой моделей
 
 ### Utils
 
@@ -66,3 +68,7 @@ python combine_dataset.py
 from datasets import load_dataset
 dataset = load_dataset("Skylion007/openwebtext")
 ```
+
+### Evaluation results
+
+В папке можно найти json-результаты mmlu 5-shot accuracy, но лучше в презентации или ноутбуках
